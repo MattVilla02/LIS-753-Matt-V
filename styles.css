@@ -1,0 +1,31 @@
+header{
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1{
+    color: #5accc8;
+  }
+  
+  article{
+    text-align: center;
+  }
+  
+  img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid black;
+  }
+  
+  figcaption{
+    display: inline-block;
+    background: #cbbaf5;
+    margin: 10px auto;
+    width: auto;
+  }
+  
+  h3{
+    color: grey;
+    text-align: center;
+  }
