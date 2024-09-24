@@ -30,10 +30,12 @@ header{
     text-align: center;
   }
 
-  ul li a{
+  ul li a {
+    font-weight: bold;
+    color: cornflowerblue;
     text-decoration: none;
   }
 
-  ul li a:hover{
+  ul li a:hover {
     text-decoration: underline;
   }
