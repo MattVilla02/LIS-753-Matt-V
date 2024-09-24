@@ -34,13 +34,16 @@ header{
     font-weight: bold;
     color: cornflowerblue;
   }
-
-  ul li a {
-    text-decoration: none;
+  
+  nav ul {
     display: flex;
     list-style: none;
     padding-left: 0;
     border: 1px solid lightgreen;
+  }
+
+  ul li a {
+    text-decoration: none;
   }
 
   ul li a:hover {
