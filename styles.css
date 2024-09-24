@@ -30,9 +30,12 @@ header{
     text-align: center;
   }
 
-  ul li a {
+  a {
     font-weight: bold;
     color: cornflowerblue;
+  }
+
+  ul li a {
     text-decoration: none;
   }
 
