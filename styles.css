@@ -2,8 +2,13 @@ header{
     font-family: sans-serif;
     text-align: center;
   }
+
+  body{
+    background-color: 49494B;
+  }
+
   h1{
-    color: #fda053;
+    color: #FEAB67;
   }
   
   article{
