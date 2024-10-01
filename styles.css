@@ -7,6 +7,11 @@ header{
     text-align: center;
     color: #C15701;
   }
+
+  body {
+    margin: 0;
+    padding: 0;
+}
   
   article{
     text-align: center;
