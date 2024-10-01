@@ -47,6 +47,8 @@ header{
   }
   
   nav ul {
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     gap: 20px;
