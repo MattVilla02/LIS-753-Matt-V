@@ -37,7 +37,11 @@ header{
 
   a {
     font-weight: bold;
-    color: cornflowerblue;
+    color: #F2EBE3;
+  }
+
+  nav{
+    background-color: #0A454C;
   }
   
   nav ul {
