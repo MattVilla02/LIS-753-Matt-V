@@ -3,12 +3,9 @@ header{
     text-align: center;
   }
 
-  header{
-    background-color: #49494B;
-  }
-
   h1{
     color: #FEAB67;
+    background-color: #49494B;
   }
   
   article{
