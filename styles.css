@@ -39,8 +39,8 @@ header{
 
   li#Title{
     position: absolute; 
-    left: 1px;
-    top: -2px;
+    left: 0px;
+    top: 0px;
   }
 
   a#Title-Page{
