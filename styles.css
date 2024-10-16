@@ -31,11 +31,6 @@ header{
     margin: 10px auto;
     width: auto;
   }
-  
-  h3{
-    color: grey;
-    text-align: center;
-  }
 
   li#Title{
     position: absolute; 
@@ -84,3 +79,46 @@ header{
   ul li a:hover {
     text-decoration: underline;
   }
+
+  p.HTML-par{
+  color: red;
+}
+
+li.HTML-head{
+  list-style: none;
+  color: blue;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+p.CSS-par{
+  color: green;
+}
+
+li.CSS-head{
+  list-style: none;
+  color: purple;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.HTML, .CSS{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+}
+
+h2#sec1-title{
+  color: orange;
+}
+
+h2#sec2-title{
+  color: lightblue;
+  
+}
+footer {
+    background-color: #0A454C; 
+    color: #f2dec7;
+    text-align: center; 
+    padding: 20px; 
+    margin-top: 20px; 
+}
