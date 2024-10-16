@@ -81,7 +81,7 @@ header{
   }
 
   p.HTML-par{
-  color: red;
+  color: #AD0000;
 }
 
 li.HTML-head{
@@ -108,11 +108,11 @@ li.CSS-head{
 }
 
 h2#sec1-title{
-  color: orange;
+  color: #A36A00;
 }
 
 h2#sec2-title{
-  color: lightblue;
+  color: #2E80A3;
   
 }
 footer {
