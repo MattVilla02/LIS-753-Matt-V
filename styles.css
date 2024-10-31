@@ -1,9 +1,9 @@
-header{
+header {
     font-family: sans-serif;
     text-align: center;
   }
 
-  h1{
+  h1 {
     text-align: center;
     color: #C15701;
   }
@@ -14,11 +14,11 @@ header{
     padding: 0;
 }
   
-  article{
+  article {
     text-align: center;
   }
   
-  #img-1{
+  #img-1 {
     display: block;
     margin: 0 auto;
     max-width: 100%;
@@ -26,20 +26,20 @@ header{
     border: 2px solid black;
   }
   
-  figcaption{
+  figcaption {
     display: inline-block;
     background: #cbbaf5;
     margin: 10px auto;
     width: auto;
   }
 
-  li#Title{
+  li#Title {
     position: absolute; 
     left: 0px;
     top: 0px;
   }
 
-  a#Title-Page{
+  a#Title-Page {
     color: #f2dec7;
     font-size: 18px;
     font-family: 'Verdana', sans-serif;
@@ -51,7 +51,7 @@ header{
     color: #F2EBE3;
   }
 
-  nav{
+  nav {
     background-color: #0A454C;
   }
   
