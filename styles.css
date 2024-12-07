@@ -34,7 +34,7 @@ header {
   }
 
   li#Title {
-    position: absolute; 
+    position: relative; 
     left: 0px;
     top: 0px;
   }
